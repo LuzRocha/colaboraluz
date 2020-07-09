@@ -1,0 +1,12 @@
+Este es un proyecto de prueba de nuevos comandos git 
+
+se trata de una pagina echa en bootstrap 
+
+editando el index
+
+colaboradores
+
+1.-Luz Rosales-->header y footer
+2.-Aldahir Ortega-->contenido
+3.-Lesly Lucero
+4.-Carina Gonzalez
